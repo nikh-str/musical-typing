@@ -8,6 +8,7 @@ based on [typr](https://github.com/Sakura-sx/typr) and using [gum](https://githu
 ![demo2](assets/main.png)
 
 
+
 ```
 git clone https://github.com/nikh-str/musical-typing.git
 cd musical-typing
