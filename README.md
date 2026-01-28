@@ -9,6 +9,7 @@ based on [typr](https://github.com/Sakura-sx/typr) and using [gum](https://githu
 
 
 
+
 ```
 git clone https://github.com/nikh-str/musical-typing.git
 cd musical-typing
