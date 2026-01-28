@@ -365,7 +365,7 @@ fn run_test(app: &mut AppState, mode: TestMode) -> Result<Option<TestResult>> {
             };
 
             f.render_widget(
-                Paragraph::new(status).bg(Color::Rgb(58, 7, 20)).bold().alignment(Alignment::Center).block(Block::default().borders(Borders::BOTTOM)),
+                Paragraph::new(status).bg(Color::Rgb(46, 2, 91)).bold().alignment(Alignment::Center).block(Block::default().borders(Borders::BOTTOM)),
                 layout[0]
             );
 
